@@ -2,7 +2,7 @@
 /**
  * The space ship class.
  * 
- * @author C. Fox
+ * @author C. Fox, Ryan Gross
  * @version 2/19
  */
 public class Ship implements Drawable, Collidable, Updateable

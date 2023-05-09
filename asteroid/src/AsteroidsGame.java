@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * asteroids when necessary, freezing the game when it is over, detecting collisions
  * updating the game state, and telling the other classes when to draw themselves.
  * 
- * @author: C. Fox
+ * @author: C. Fox, Ryan Gross
  * @version 3/19
  */
 public class AsteroidsGame
